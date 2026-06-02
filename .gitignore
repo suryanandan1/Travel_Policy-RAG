@@ -1,0 +1,17 @@
+# virtual environment
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# environment variables
+.env
+
+# vector DB (optional but recommended)
+vectorstore/
+faiss_index/
+
+# OS files
+.DS_Store
